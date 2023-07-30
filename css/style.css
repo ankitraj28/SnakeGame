@@ -5,7 +5,6 @@
 }
 
 .body{
-    /* background: url("../img/bg.jpg");  */
     background-color: rgb(15, 68, 79);
     min-height: 100vh;
     background-size: 100vw 100vh;
@@ -44,8 +43,7 @@
 }
 
 .head{
-    /* background: linear-gradient(rgb(201, 240, 124), rgb(181, 121, 19));
-     */
+    
      background-color: rgb(133, 191, 242);
     border: 2px solid rgb(9, 4, 34); 
     transform: scale(1.02);
